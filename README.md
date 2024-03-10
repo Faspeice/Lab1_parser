@@ -1,1 +1,1 @@
-# Парсер сайта peppeper.ru
+# Парсер сайта pepper.ru
